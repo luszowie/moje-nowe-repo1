@@ -1,2 +1,6 @@
-# moje-nowe-repo1
+# Witaj w moim projekcie
+
 Testowe repozytorium1
+
+## Opis projektu
+
